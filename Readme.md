@@ -8,6 +8,7 @@
 Git is a distributed version control system that differs from the rest in the way it models its data. Most other systems store information as a list of file changes, while Git models its data more as a set of snapshots of a mini file system.
 
 ## Index
+
 - [Introduction](https://youtu.be/3GymExBkKjE)
 - [Lesson 1 - Introduction to Git](https://youtu.be/3GymExBkKjE?t=196) - **Git Part Begins**
 - [Lesson 2 - History of Git](https://youtu.be/3GymExBkKjE?t=622)
@@ -57,9 +58,11 @@ Git is a distributed version control system that differs from the rest in the wa
 - [Next steps](https://youtu.be/3GymExBkKjE?t=18263)
 
 ### Introduction
+
 Git has three main states that your files can be found in: committed, modified, and staged. Confirmed means the data is safely stored in your local database. Modified means that you have modified the file but have not yet committed it to your database. Ready means that you have marked a modified file in its current version to go in your next commit. This brings us to the three main sections of a Git project: the Git directory, the working directory, and the staging area.
 
 ## What you will learn
+
 - Git from its history and foundations
 - Main concepts and workflow
 - Terminal management
@@ -95,6 +98,8 @@ And much more...
 - [GitHub Actions](https://github.com/features/actions)
 - Practice with the community's [programming challenges](https://retosdeprogramacion.com)
 - And finally, here is a Gif that I created with the 30 most used Git commands
+
+##
 
 #### You can support my work by making a "☆ Star" in the repo or nominate me for a "GitHub Star". Thank you!
 
