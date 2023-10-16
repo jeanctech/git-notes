@@ -97,7 +97,6 @@ And much more...
 - [GitHub Pages](https://pages.github.com/)
 - [GitHub Actions](https://github.com/features/actions)
 - Practice with the community's [programming challenges](https://retosdeprogramacion.com)
-- And finally, here is a Gif that I created with the 30 most used Git commands
 
 ##
 
