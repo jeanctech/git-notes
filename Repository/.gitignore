@@ -1,0 +1,13 @@
+
+gitignore
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar archivos de registro
+log/*.log
+
+# Ignorar archivos de configuración locales
+config.ini
+
+# Ignorar directorios de construcción
+/build/

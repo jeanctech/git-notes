@@ -2,69 +2,67 @@
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## What is Git?
 
-Git is a distributed version control system that differs from the rest in the way it models its data. Most other systems store information as a list of file changes, while Git models its data more as a set of snapshots of a mini file system.
+Git is a distributed version control system that differs from the rest in the way it
+models your data. Most other systems store information as a list of changes to
+files, while Git models its data more like a set of snapshots of a mini storage system.
+files.
 
 ## Index
 
-- [Introduction]()
-- [Lesson 1 - Introduction to Git]() - **Git Part Begins**
-- [Lesson 2 - History of Git]()
-- [Lesson 3 - Git Installation]()
-- [Lesson 4 - Basic Terminal Commands]()
-- [Lesson 5 - Git Configuration]()
-- [Lesson 6 - Git Init]()
-- [Lesson 7 - Branches in Git]()
-- [Lesson 8 - Git Add and Git Commit]()
-- [Lesson 9 - Git Log and Git Status]()
-- [Lesson 10 - Git Checkout and Git Reset]()
-- [Lesson 11 - Git Alias]()
-- [Lesson 12 - .gitignore File]()
-- [Lesson 13 - Git Diff]()
-- [Lesson 14 - Moving on a Branch]()
-- [Lesson 15 - Git Reset --Hard and Git Reflog]()
-- [Lesson 16 - Git Tag]()
-- [Lesson 17 - Git Branch and Git switch]()
-- [Lesson 18 - Git Merge]()
-- [Lesson 19 - Conflict Resolution in Git]()
-- [Lesson 20 - Git Stash]()
-- [Lesson 21 - Reintegrating branches in Git]()
-- [Lesson 22 - Deleting Branches in Git]()
-- [Lesson 23 - Introduction to GitHub]() - **GitHub Part Begins**
-- [Lesson 24 - Getting started on GitHub]()
-- [Lesson 25 - Personal Repository]()
-- [Lesson 26 - Local and Remote]()
-- [Lesson 27 - Ssh Authentication on GitHub]()
-- [Lesson 28 - Project Repository]()
-- [Lesson 29 - Git Remote]()
-- [Lesson 30 - Uploading a project to GitHub]()
-- [Lesson 31 - Git Fetch and Git Pull]()
-- [Lesson 32 - Git Clone]()
-- [Lesson 33 - Git Push]()
-- [Lesson 34 - Fork on GitHub]()
-- [Lesson 35 - Collaborative flow on GitHub]()
-- [Lesson 36 - Pull Request Pr on GitHub]()
-- [Lesson 37 - Practical exercise]() - **Practice**
-- [Lesson 38 - Conflict Resolution in Pull Requests]()
-- [Lesson 39 - Synchronizing a Fork on GitHub]()
-- [Lesson 40 - Markdown on GitHub]()
-- [Lesson 41 - Graphical tools Gui for Git and GitHub]()
-- [Lesson 42 - Git and GitHub Flow]()
-- [Lesson 43 - Gitflow Example]()
-- [Lesson 44 - Git Cherry-Pick and Git Rebase]()
-- [Lesson 45 - GitHub Pages and Actions]()
-- [Next steps]()
+- [Lesson 1 - Introduction to Git](Git-Introduction.md) - **The Git part begins**
+- [Lesson 2 - History of Git](Git-History.md)
+- [Lesson 3 - Git Installation](Git-History.md)
+- [Lesson 4 - Basic Commands](Basic-Git-Commands.md)
+- [Lesson 5 - Git Configuration](Git-Configuration.md)
+- [Lesson 6 - Git Init](Git-Init.md)
+- [Lesson 7 - Branches in Git](Branches-in-Git.md)
+- [Lesson 8 - Git Add and Git Commit](Git-Add-and-Git-Commit.md)
+- [Lesson 9 - Git Log and Git Status](Git-Log-and-Git-Status.md)
+- [Lesson 10 - Git Checkout and Git Reset](Git-Checkout-and-Git-Reset.md)
+- [Lesson 11 - Git Aliases](Git-Aliases.md)
+- [Lesson 12 - Gitignore Archive](Gitignore-Archive.md)
+- [Lesson 13 - Git Diff](Git-Diff.md)
+- [Lesson 14 - Git Reset](Git-Reset.md)
+- [Lesson 15 - Git Tag](Git-Tag.md)
+- [Lesson 16 - Git Branch and Git Switch](Git-Branches-and-Git-Switching.md)
+- [Lesson 17 - Git Merge](Git-Merge.md)
+- [Lesson 18 - Conflict Resolution in Git](Conflict-Resolution-in-Git.md)
+- [Lesson 19 - Git Stash](Git-Stash.md)
+- [Lesson 20 - Reintegrating Branches in Git](Redelivering-Branches.md)
+- [Lesson 21 - Branch Deletion in Git](Deleting-Branches-Git.md)
+- [Lesson 22 - Introduction to GitHub](Git-Introduction.md) - **The GitHub part begins**
+- [Lesson 23 - Getting started in GitHub](Getting-Started-on-Github.md)
+- [Lesson 24 - Personal Repository](Personal-Repository.md)
+- [Lesson 25 - Local and Remote](Local-and-Remote.md)
+- [Lesson 26 - Ssh Authentication in GitHub](Ssh-Authentication-Github.md)
+- [Lesson 27 - Project Repository](Project-Repository.md)
+- [Lesson 28 - Git Remote](Git-Remote.md)
+- [Lesson 29 - Upload a Project to GitHub](Upload-a-Project-to-GitHub.md)
+- [Lesson 30 - Git Fetch and Git Pull](Git-Fetch-and-Git-Pull.md)
+- [Lesson 31 - Git Clone](Git-Clone.md)
+- [Lesson 32 - Git Push](Git-Push.md)
+- [Lesson 33-  GitHub Fork](Github-Fork.md)
+- [Lesson 34 - Collaborative Flow on GitHub](Collaborative-Flow-Github.md)
+- [Lesson 35 - Pull Request on GitHub](Pull-Request-on-Github.md)
+- [Next Steps](Next-Steps.md)
 
 ### Introduction
 
-Git has three main states that your files can be found in: committed, modified, and staged. Confirmed means the data is safely stored in your local database. Modified means that you have modified the file but have not yet committed it to your database. Ready means that you have marked a modified file in its current version to go in your next commit. This brings us to the three main sections of a Git project: the Git directory, the working directory, and the staging area.
+Git has three main states your files can be found in: committed, modified, and
+prepared. Committed means that the data is safely stored in your local database.
+Modified means that you have modified the file but have not yet submitted it to your database. Ready
+means that you have marked a modified file in its current version for inclusion in your next
+confirmation. This brings us to the three main sections of a Git project: the Git directory,
+the working directory and the staging area.
 
-## What you will learn
+## What you are going to learn
 
-- Git from its history and foundations
-- Main concepts and workflow
+- Git from its history and foundations.
+- Main concepts and workflow.
 - Terminal management
 - Installation and configuration
 - 25+ Git commands
@@ -72,14 +70,10 @@ Git has three main states that your files can be found in: committed, modified, 
 - Configuration and authentication
 - Git integration with GitHub
 - Collaborative flow
-- Herrfeatured ingredients
+- Featured ingredients
 - Practical examples
 
 And much more...
-
-> ### Exercise to practice what you have learned:
->
-> If you are participating in the course and have already seen lesson 36, practice a complete workflow in Git and GitHub by adding your username in the [Hello.md](./Hello.md) document.
 
 ## Links of interest
 
@@ -100,6 +94,6 @@ And much more...
 
 ##
 
-#### You can support my work by making a "☆ Star" in the repo or nominate me for a "GitHub Star". Thank you!
+#### You can support my work by creating a "☆ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
