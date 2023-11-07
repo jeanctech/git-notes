@@ -6,10 +6,7 @@
 
 ## What is Git?
 
-Git is a distributed version control system that differs from the rest in the way it
-models your data. Most other systems store information as a list of changes to
-files, while Git models its data more like a set of snapshots of a mini storage system.
-files.
+Git is a distributed version control system that differs from the rest in the way it models your data. Most other systems store information as a list of changes to files, while Git models its data more like a set of snapshots of a mini storage system files.
 
 ## Index
 
@@ -52,12 +49,7 @@ files.
 
 ### Introduction
 
-Git has three main states your files can be found in: committed, modified, and
-prepared. Committed means that the data is safely stored in your local database.
-Modified means that you have modified the file but have not yet submitted it to your database. Ready
-means that you have marked a modified file in its current version for inclusion in your next
-confirmation. This brings us to the three main sections of a Git project: the Git directory,
-the working directory and the staging area.
+Git has three main states your files can be found in: committed, modified, and prepared. Committed means that the data is safely stored in your local database. Modified means that you have modified the file but have not yet submitted it to your database. Ready means that you have marked a modified file in its current version for inclusion in your next confirmation. This brings us to the three main sections of a Git project: the Git directory, the working directory and the staging area.
 
 ## What you are going to learn
 
@@ -78,7 +70,7 @@ And much more...
 ## Links of interest
 
 - [Web](https://git-scm.com) Official Git (Documentation, download...)
-- [Book](https://git-scm.com/book/es/v2) From Git in Spanish (Free)
+- [Book](https://git-scm.com/book/es/v2) From Git in Spanish - Free
 - What tools am I working with?: [iTerm](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/),
 - [VSCode](https://code.visualstudio.com/), [Miro](https://miro.com/)
 - [Guide](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/) with most used Git commands

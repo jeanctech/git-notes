@@ -1,6 +1,6 @@
 # Basic Git Commands
 
-**Git is a powerful tool for version control and source code management. Here are some basic Git commands to help you get started.
+Git is a powerful tool for version control and source code management. Here are some basic Git commands to help you get started.
 
 1. `git init`: Initializes a new Git repository in a directory.
 
@@ -40,4 +40,4 @@
 
 19. `git tag <name>`: Create a tag to mark a point in commit history.
 
-These are just some of the most basic Git commands. Git is a very versatile tool with many advanced features, but these commands will give you a solid foundation to start working with version control. You can use "git help" followed by a command to get more detailed information on its usage.**
+These are just some of the most basic Git commands. Git is a very versatile tool with many advanced features, but these commands will give you a solid foundation to start working with version control. You can use "git help" followed by a command to get more detailed information on its usage.
