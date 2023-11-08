@@ -1,4 +1,4 @@
-# Personal Repository
+# Personal Repository - Github
 
 A "personal repository" refers to a Git repository that belongs to an individual developer or a specific user account on a repository hosting platform, such as GitHub, GitLab, or Bitbucket. These personal repositories are spaces where a developer can store and manage their own source code, personal projects or resources related to their work or interests, without having to share them with other collaborators by default.
 

@@ -13,10 +13,10 @@ Git is a distributed version control system that differs from the rest in the wa
 - [Lesson 1 - Introduction to Git](Git-Introduction.md) - **The Git part begins**
 - [Lesson 2 - History of Git](Git-History.md)
 - [Lesson 3 - Git Installation](Git-History.md)
-- [Lesson 4 - Basic Commands](Basic-Git-Commands.md)
+- [Lesson 4 - Git Commands](Git-Commands.md)
 - [Lesson 5 - Git Configuration](Git-Configuration.md)
 - [Lesson 6 - Git Init](Git-Init.md)
-- [Lesson 7 - Branches in Git](Branches-in-Git.md)
+- [Lesson 7 - Branches](Branches.md)
 - [Lesson 8 - Git Add and Git Commit](Git-Add-and-Git-Commit.md)
 - [Lesson 9 - Git Log and Git Status](Git-Log-and-Git-Status.md)
 - [Lesson 10 - Git Checkout and Git Reset](Git-Checkout-and-Git-Reset.md)
@@ -32,10 +32,10 @@ Git is a distributed version control system that differs from the rest in the wa
 - [Lesson 20 - Reintegrating Branches in Git](Redelivering-Branches.md)
 - [Lesson 21 - Branch Deletion in Git](Deleting-Branches-Git.md)
 - [Lesson 22 - Introduction to GitHub](Git-Introduction.md) - **The GitHub part begins**
-- [Lesson 23 - Getting started in GitHub](Getting-Started-on-Github.md)
+- [Lesson 23 - Getting started in GitHub](Getting-Started.md)
 - [Lesson 24 - Personal Repository](Personal-Repository.md)
 - [Lesson 25 - Local and Remote](Local-and-Remote.md)
-- [Lesson 26 - Ssh Authentication in GitHub](Ssh-Authentication-Github.md)
+- [Lesson 26 - Ssh Authentication](Ssh-Authentication.md)
 - [Lesson 27 - Project Repository](Project-Repository.md)
 - [Lesson 28 - Git Remote](Git-Remote.md)
 - [Lesson 29 - Upload a Project to GitHub](Upload-a-Project-to-GitHub.md)
@@ -43,8 +43,8 @@ Git is a distributed version control system that differs from the rest in the wa
 - [Lesson 31 - Git Clone](Git-Clone.md)
 - [Lesson 32 - Git Push](Git-Push.md)
 - [Lesson 33-  GitHub Fork](Github-Fork.md)
-- [Lesson 34 - Collaborative Flow on GitHub](Collaborative-Flow-Github.md)
-- [Lesson 35 - Pull Request on GitHub](Pull-Request-on-Github.md)
+- [Lesson 34 - Collaborative Flow](Collaborative-Flow.md)
+- [Lesson 35 - Pull Request](Pull-Request.md)
 - [Next Steps](Next-Steps.md)
 
 ### Introduction

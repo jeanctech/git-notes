@@ -1,4 +1,4 @@
-# Basic Git Commands
+# Git Commands
 
 Git is a powerful tool for version control and source code management. Here are some basic Git commands to help you get started.
 

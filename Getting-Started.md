@@ -1,4 +1,4 @@
-# Getting Started on Github
+# Getting Started - Github
 
 Here's a step-by-step guide to get started on GitHub:
 

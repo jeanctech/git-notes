@@ -1,4 +1,4 @@
-# Redelivering Branches
+# Redelivering Branches - Git
 
 In Git, rejoining a branch usually means merging a child branch back into the main branch (such as `master` or `main`) after you've worked on it separately. This is common practice to incorporate feature changes, bug fixes, or other developments in an orderly manner. Reintegration is generally done through a merger.
 

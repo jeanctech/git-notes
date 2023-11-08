@@ -1,4 +1,4 @@
-# Collaborative Flow on Github
+# Collaborative Flow - Github
 
 The collaborative workflow on GitHub involves multiple developers working together on a source code project using Git and GitHub. This process is based on collaboration, code review, and conflict management efficiently. Here I present a common collaborative workflow:
 

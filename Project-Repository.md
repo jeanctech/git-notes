@@ -1,4 +1,4 @@
-# Project Repository
+# Project Repository - Github
 
 A project repository is a storage and management space for files and resources related to a specific project. These repositories are used by teams and individual developers to organize, collaborate, and track the progress of their projects. Project repositories are commonly used in software development, but are also useful in other fields, such as project management, research, and documentation. Here is information on how project repositories work and are used:
 

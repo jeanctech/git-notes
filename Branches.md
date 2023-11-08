@@ -1,4 +1,4 @@
-# Branches in Git
+# Branches - Git
 
 In Git, branches are a fundamental feature that allows you to work on different development lines independently and simultaneously within a repository. Each branch represents a separate development line, and you can create, change and merge branches according to your needs. Here's a more detailed description of how branches work in Git:
 

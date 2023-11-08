@@ -1,4 +1,4 @@
-# Deleting Branches in Git
+# Deleting Branches - Git
 
 To Delete Branches in Git, you can use the `git branch` or `git push` command, depending on whether you want to delete the local branch or the remote branch. Here I show you how to do it:
 

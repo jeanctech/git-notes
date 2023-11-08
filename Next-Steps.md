@@ -1,4 +1,4 @@
-# Next Steps
+# Next Steps - Git
 
 Once you've taken your first steps in Git and GitHub, you can advance your knowledge and skills by following these next steps.
 

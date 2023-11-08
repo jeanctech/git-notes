@@ -1,4 +1,4 @@
-# Conflict Resolution in Git
+# Conflict Resolution - Git
 
 Conflict resolution in Git occurs when two or more different branches or changes modify the same part of a file in the repository. Git cannot automatically determine which version is correct, so it requires users to manually resolve these conflicts before merging branches. Here I explain how to resolve conflicts in Git:
 

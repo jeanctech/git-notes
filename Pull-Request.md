@@ -1,4 +1,4 @@
-# Pull Request on Github
+# Pull Request - Github
 
 A "PR" or "Pull Request" is a key feature of GitHub that allows developers to collaborate on open source or private projects. A PR is used to propose changes to a repository and request that the repository owners review them and, if deemed appropriate, merge them into the main project. Here's how to create a PR on GitHub:
 

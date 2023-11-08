@@ -1,4 +1,4 @@
-# Ssh Authentication on Github
+# Ssh Authentication - Github
 
 Ssh authentication in Git is used to establish a secure connection between your computer and a remote Git server, such as GitHub, GitLab, or Bitbucket. Ssh authentication relies on the use of Ssh keys to verify the user's identity and allow access to remote repositories. Below are general steps to configure SSH authentication in Git.
 
@@ -12,9 +12,9 @@ Ssh authentication in Git is used to establish a secure connection between your 
 
     Replace "your_mail@example.com" with your email address. You can leave the password blank if you do not want to protect your private key with a password.
 
-2. Add your SSH key to an SSH agent (optional but recommended):
+2. Add your Ssh key to an Ssh agent (optional but recommended):
 
-    You can use an SSH agent to manage your keys more securely and avoid having to enter the private key password every time you connect to the remote server. Run the following commands:
+    You can use an Ssh agent to manage your keys more securely and avoid having to enter the private key password every time you connect to the remote server. Run the following commands:
 
     ```shell
     eval "$(ssh-agent -s)"
@@ -35,9 +35,9 @@ Ssh authentication in Git is used to establish a secure connection between your 
 
     Sign in to your account on the remote Git server (for example, GitHub, GitLab, or Bitbucket) and look for the SSH key configuration section. Then, paste the public key that you copied in the previous step into the corresponding field and save it.
 
-5. Verify SSH configuration:
+5. Verify Ssh configuration:
 
-    To verify that your SSH configuration is working correctly, run the following command:
+    To verify that your Ssh configuration is working correctly, run the following command:
 
     ```shell
     ssh -T git@github.com
