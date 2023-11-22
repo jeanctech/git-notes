@@ -1,12 +1,12 @@
 # Git - Documentation
 
-[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## What is Git?
 
-Git is a distributed version control system that differs from the rest in the way it models your data. Most other systems store information as a list of changes to files, while Git models its data more like a set of snapshots of a mini storage system files.
+Git is a distributed version control system that differs from the rest in the way it models your data. Most other systems store information as a list of changes to files, while Git models its data more like a set of snapshots of a mini storage system files. Git is a widely used version control system Vcs that has revolutionized the way software is developed and collaborated on projects.
 
 ## Index
 
