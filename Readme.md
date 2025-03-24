@@ -88,4 +88,4 @@ And much more...
 
 #### You can support my work by creating a "☆ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/).
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
