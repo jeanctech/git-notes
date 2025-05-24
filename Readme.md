@@ -1,91 +1,67 @@
-# Git - Documentation
+# > Git-notes.sh 🚀
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+> Learn Git as if you were in the terminal.
+> No frameworks, no black magic — just pure code.
+> `echo "Let's go nerd mode 🧠"`
 
-## What is Git?
+## 📁 ./content
 
-Git is a distributed version control system that differs from the rest in the way it models your data. Most other systems store information as a list of changes to files, while Git models its data more like a set of snapshots of a mini storage system files. Git is a widely used version control system Vcs that has revolutionized the way software is developed and collaborated on projects.
+- [Day 01 - Introduction to Git](./notes/git-introduction.md)
+- [Day 02 - History of Git](./notes/git-history.md)
+- [Day 03 - Git Installation](./notes/git-installation.mdGit-History.md)
+- [Day 04 - Git Commands](./notes/git-commands.md)
+- [Day 05 - Git Configuration](./notes/git-configuration.md)
+- [Day 06 - Git Init](./notes/git-init.md)
+- [Day 07 - Branches](./notes/branches.md)
+- [Day 08 - Git Add and Git Commit](./notes/git-add-and-git-commit.md)
+- [Day 09 - Git Log and Git Status](./notes/git-log-and-git-status.md)
+- [Day 10 - Git Checkout and Git Reset](./notes/git-checkout-and-git-reset.md)
+- [Day 11 - Git Aliases](./notes/git-aliases.md)
+- [Day 12 - Gitignore Archive](./notes/gitignore-archive.md)
+- [Day 13 - Git Diff](./notes/git-diff.md)
+- [Day 14 - Git Reset](./notes/git-reset.md)
+- [Day 15 - Git Tag](./notes/git-tag.md)
+- [Day 16 - Git Branch and Git Switch](./notes/git-branches-and-git-switching.md)
+- [Day 17 - Conflict Resolution in Git](/notes/conflict-resolution-in-git.md)
+- [Day 18 - Git Merge](./notes/git-merge.md)
+- [Day 19 - Git Stash](./notes/git-stash.md)
+- [Day 20 - Git Push](./notes/git-push.md)
+- [Day 21 - Reintegrating Branches in Git](./notes/redelivering-branches.md)
+- [Day 22 - Branch Deletion in Git](./notes/deleting-branches-git.md)
+- [Day 23 - GitHub Fork](./notes/github-fork.md)
+- [Day 24 - Pull Request](./notes/pull-request.md)
+- [Day 25 - Local and Remote](./notes/local-and-remote.md)
+- [Day 26 - Ssh Authentication](./notes/ssh-authentication.md)
+- [Day 27 - Project Repository](./notes/project-repository.md)
+- [Day 28 - Git Fetch and Git Pull](./notes/git-fetch-and-git-pull.md)
+- [Day 29 - Git Clone](git-clone.md)
+- [Day 30 - Git Remote](git-remote.md)
 
-## Index
+## 🔗 ./resources
 
-- [Lesson 1 - Introduction to Git](Git-Introduction.md) - **The Git part begins**
-- [Lesson 2 - History of Git](Git-History.md)
-- [Lesson 3 - Git Installation](Git-History.md)
-- [Lesson 4 - Git Commands](Git-Commands.md)
-- [Lesson 5 - Git Configuration](Git-Configuration.md)
-- [Lesson 6 - Git Init](Git-Init.md)
-- [Lesson 7 - Branches](Branches.md)
-- [Lesson 8 - Git Add and Git Commit](Git-Add-and-Git-Commit.md)
-- [Lesson 9 - Git Log and Git Status](Git-Log-and-Git-Status.md)
-- [Lesson 10 - Git Checkout and Git Reset](Git-Checkout-and-Git-Reset.md)
-- [Lesson 11 - Git Aliases](Git-Aliases.md)
-- [Lesson 12 - Gitignore Archive](Gitignore-Archive.md)
-- [Lesson 13 - Git Diff](Git-Diff.md)
-- [Lesson 14 - Git Reset](Git-Reset.md)
-- [Lesson 15 - Git Tag](Git-Tag.md)
-- [Lesson 16 - Git Branch and Git Switch](Git-Branches-and-Git-Switching.md)
-- [Lesson 17 - Git Merge](Git-Merge.md)
-- [Lesson 18 - Conflict Resolution in Git](Conflict-Resolution-in-Git.md)
-- [Lesson 19 - Git Stash](Git-Stash.md)
-- [Lesson 20 - Reintegrating Branches in Git](Redelivering-Branches.md)
-- [Lesson 21 - Branch Deletion in Git](Deleting-Branches-Git.md)
-- [Lesson 22 - Introduction to GitHub](Git-Introduction.md) - **The GitHub part begins**
-- [Lesson 23 - Getting started in GitHub](Getting-Started.md)
-- [Lesson 24 - Personal Repository](Personal-Repository.md)
-- [Lesson 25 - Local and Remote](Local-and-Remote.md)
-- [Lesson 26 - Ssh Authentication](Ssh-Authentication.md)
-- [Lesson 27 - Project Repository](Project-Repository.md)
-- [Lesson 28 - Git Remote](Git-Remote.md)
-- [Lesson 29 - Upload a Project to GitHub](Upload-a-Project-to-GitHub.md)
-- [Lesson 30 - Git Fetch and Git Pull](Git-Fetch-and-Git-Pull.md)
-- [Lesson 31 - Git Clone](Git-Clone.md)
-- [Lesson 32 - Git Push](Git-Push.md)
-- [Lesson 33-  GitHub Fork](Github-Fork.md)
-- [Lesson 34 - Collaborative Flow](Collaborative-Flow.md)
-- [Lesson 35 - Pull Request](Pull-Request.md)
-- [Next Steps](Next-Steps.md)
+- [Git Official](https://git-scm.com)
+- [Manual in Spanish](https://docs.github.com/es)
+- [30 days of Git](https://github.com/Hk-Z-GitHub/30DaysToLearnGit)
+- [Game to learn Git](https://retosdeprogramacion.com)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [iTerm](https://iterm2.com/)
+- [Oh My Zsh](https://ohmyz.sh/),
+- [Miro](https://miro.com/)
 
-### Introduction
+## 🧠 ./notes
 
-Git has three main states your files can be found in: committed, modified, and prepared. Committed means that the data is safely stored in your local database. Modified means that you have modified the file but have not yet submitted it to your database. Ready means that you have marked a modified file in its current version for inclusion in your next confirmation. This brings us to the three main sections of a Git project: the Git directory, the working directory and the staging area.
+This repository is like my learning journal.
 
-## What you are going to learn
+I'm not an expert. It's not an official course. I just documented what I learned.
 
-- Git from its history and foundations.
-- Main concepts and workflow.
-- Terminal management
-- Installation and configuration
-- 25+ Git commands
-- GitHub from scratch
-- Configuration and authentication
-- Git integration with GitHub
-- Collaborative flow
-- Featured ingredients
-- Practical examples
+I might add more in the future if I get even more advanced with Git.
 
-And much more...
+## 🌟 ./support
 
-## Links of interest
+If it was helpful or you liked it, please leave a star.
+That motivates me more than a cup of coffee ☕✨
 
-- [Web](https://git-scm.com) Official Git (Documentation, download...)
-- [Book](https://git-scm.com/book/es/v2) From Git in Spanish - Free
-- What tools am I working with?: [iTerm](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/),
-- [VSCode](https://code.visualstudio.com/), [Miro](https://miro.com/)
-- [Guide](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/) with most used Git commands
-- [Web](https://github.com) Official GitHub
-- [Documentation](https://docs.github.com/es) From GitHub
-- [Settings](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/about-ssh) Ssh for GitHub
-- [Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- Graphical tools for Git and GitHub: [GitHub Desktop](https://desktop.github.com), [GitKraken](https://gitkraken.com), [Sourcetree](https://sourcetreeapp.com), [Fork](https://git-fork.com)
-- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-- [GitHub Pages](https://pages.github.com/)
-- [GitHub Actions](https://github.com/features/actions)
-- Practice with the community's [programming challenges](https://retosdeprogramacion.com)
+## 🛸 ./author
 
-##
-
-#### You can support my work by creating a "☆ Star" in the repository or by nominating me for a "GitHub Star". Thank you!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+**Author:** `jeanctech`,
+**Style:** `terminal vibes`, functional documentation, no fear of code.
